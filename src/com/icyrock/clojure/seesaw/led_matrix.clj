@@ -1,7 +1,9 @@
 (ns com.icyrock.clojure.seesaw.led-matrix
   (:import [java.util Calendar])
   (:use seesaw.core
-        seesaw.graphics))
+        seesaw.graphics)
+  (:gen-class
+    :main main))        
 
 (def lcd-dot-style-off
   (style
@@ -164,5 +166,5 @@
 (defn -main [& args]
   (native!)
   (make-frame))
-(-main)
+;(-main)
 

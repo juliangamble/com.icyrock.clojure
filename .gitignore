@@ -6,3 +6,10 @@
 /.lein-failures
 /checkouts
 /.lein-deps-sum
+classes
+lib
+com.icyrock.clojure.jar
+com.icyrock.clojure-1.0.0-SNAPSHOT.jar
+com.icyrock.clojure-1.0.0-SNAPSHOT-standalone.jar
+compstore
+sign.cmd

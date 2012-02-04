@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="http://sites.google.com/site/juliangamble/Home/"       
+      href="time.jnlp">
+        <information>
+    <title>Clojure LED Matrix Simulation</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <jar href="com.icyrock.clojure.jar"/>
+  </resources>
+  <application-desc main-class="com.icyrock.clojure.seesaw.led_matrix"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>

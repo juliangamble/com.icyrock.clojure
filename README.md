@@ -1,3 +1,13 @@
+You can see this running and read more about it here:
+http://juliangamble.com/blog/2012/02/05/clojure-gui-demo-of-led-timer/
+
+This site packages these up for Web Start. 
+
+The point here is to add Java Web start to enable it to be demoed to a wider audience
+and promote the clojure community.
+
+----
+
 # com.icyrock.clojure
 
 Some [Clojure](http://clojure.org) programs.
